@@ -11,6 +11,20 @@
 
 ---
 
+## 💡 The Business Problem
+
+Retail businesses collect enormous amounts of transaction data but most never turn it into action. They treat all customers the same — same emails, same discounts, same campaigns — and wonder why retention is low and marketing ROI is poor.
+
+The real questions every retail business needs to answer are:
+- **Who are my best customers and how do I keep them?**
+- **Which customers are about to leave and how do I stop them?**
+- **Where should I invest my marketing budget for maximum return?**
+- **How much will each customer spend in the future?**
+
+This platform answers all four questions using RFM segmentation, KMeans clustering, and CLV prediction — turning raw transaction data into specific, actionable marketing strategies for every customer segment.
+
+---
+
 ## 🚀 Overview
 
 This end-to-end data science project tackles four core retail analytics problems:
@@ -21,6 +35,7 @@ This end-to-end data science project tackles four core retail analytics problems
 - **CLV Prediction** — Predict future customer lifetime value using Gradient Boosting
 
 Built with a dark Bloomberg terminal UI, real-time customer intelligence predictor, and interactive Plotly visualisations across 50,000 transactions.
+
 
 ---
 
