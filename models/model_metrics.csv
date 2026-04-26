@@ -1,0 +1,2 @@
+clv_rmse,clv_mae,clv_r2,n_clusters,cluster_labels
+2258.15,1537.21,-0.0752,4,"{3: 'High Value', 0: 'Growth', 2: 'Occasional', 1: 'Churned Risk'}"
